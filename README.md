@@ -5,4 +5,4 @@ Link to deployed app: [Heroku](https://msin0032-matic-potocnik.herokuapp.com/ )
 
 Link to app repository: [App Repo](https://github.com/weirdaxe/msin0032)
 
-Link to dissertation: [MSIN0032 Dissertation]("MSI0032 - Dissertation - Matic Potocnik.pdf")
+Link to dissertation: [MSIN0032 Dissertation](MSIN0032 - Dissertation - Matic Potocnik.pdf)
